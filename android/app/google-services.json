@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595285772211",
+    "project_id": "shoe-flutter-fe569",
+    "storage_bucket": "shoe-flutter-fe569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595285772211:android:771a8f0a18af76b601edc6",
+        "android_client_info": {
+          "package_name": "com.example.project_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOzLA7BcYDbt3VotWOhdzjcx-_3Zs7r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
